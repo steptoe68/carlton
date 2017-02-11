@@ -1,4 +1,4 @@
 <title>Test</title>
 <url>http://dl.tehmovies.org/94/95/9/A.Grand.Day.Out.1989.1080p.Tehmovies_in.mkv</url>
-<thumb>http://thetvdb.com/banners/_cache/posters/73981-5.jpg</thumb>
-<art>http://thetvdb.com/banners/fanart/original/73981-5.jpg</art>
+<thumb>http://images5.fanpop.com/image/photos/31300000/beautiful-heart-pic-beautiful-pictures-31395948-333-500.jpg</thumb>
+<art>http://images5.fanpop.com/image/photos/31300000/beautiful-heart-pic-beautiful-pictures-31395948-333-500.jpg</art>
